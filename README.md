@@ -50,5 +50,5 @@ This project was tested on a machine with the following specifications:
 1. Each user generates their keystore and extracts their public key with the use of keytool as exemplified in the batch file "generateUserKeystores.bat";  
 2. Notary public key certificate is already pre-installed on every client application;  
 3. Users public key certificates are shared in a meeting between users that want to communicate with each other.  
-# Projecto-SEC-2018-2019
+
 # Projecto-SEC-2018-2019
