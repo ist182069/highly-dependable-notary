@@ -2,11 +2,11 @@
 
 The main goal of the HDS Notary is to certify the transfer of ownership of arbitrary goods between users.  
 
-This project's obtained grade was 18.4 and was evaluated by Professor Miguel Matos and Bolseiro Nuno Anselmo.
+This project's obtained grade was 18.4/20 and was evaluated by Professor Miguel Matos and Bolseiro Nuno Anselmo.
 
 The authors were:
-- 82014 - João Meira - MEIC-T (Final Grade: 16) @ https://github.com/meiraxx
-- 82069 - José Brás  - MEIC-T (Final Grade: 17) @ https://github.com/ist182069
+- 82014 - João Meira - MEIC-T (Final Grade: 16/20) @ https://github.com/meiraxx
+- 82069 - José Brás  - MEIC-T (Final Grade: 17/20) @ https://github.com/ist182069
   
 The main goal of the HDS Notary is to certify the transfer of ownership of arbitrary goods between users.  
 
