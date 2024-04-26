@@ -2,11 +2,11 @@
 
 The main goal of the HDS Notary is to certify the transfer of ownership of arbitrary goods between users.  
 
-This project's obtained grade was 18.4/20 and was evaluated by Professor Miguel Matos and Bolseiro Nuno Anselmo.
+This project's obtained **grade** was 18.4/20 and was evaluated by Professor Miguel Matos and Bolseiro Nuno Anselmo.
 
 The authors were:
-- 82014 - João Meira - MEIC-T (Final Grade: 16/20) @ https://github.com/meiraxx
-- 82069 - José Brás  - MEIC-T (Final Grade: 17/20) @ https://github.com/ist182069
+- 82014 - João Meira - MEIC-T (Final **Grade**: 16/20) @ https://github.com/meiraxx
+- 82069 - José Brás  - MEIC-T (Final **Grade**: 17/20) @ https://github.com/ist182069
   
 The main goal of the HDS Notary is to certify the transfer of ownership of arbitrary goods between users.  
 
@@ -50,5 +50,3 @@ This project was tested on a machine with the following specifications:
 1. Each user generates their keystore and extracts their public key with the use of keytool as exemplified in the batch file "generateUserKeystores.bat";  
 2. Notary public key certificate is already pre-installed on every client application;  
 3. Users public key certificates are shared in a meeting between users that want to communicate with each other.  
-
-# Projecto-SEC-2018-2019
